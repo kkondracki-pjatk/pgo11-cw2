@@ -29,6 +29,7 @@ public class zadanie2 {
             }
         }
 
+
         return (count > threshold) ? candidate : -1;
     }
 }
